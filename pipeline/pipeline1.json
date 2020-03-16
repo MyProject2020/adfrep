@@ -41,13 +41,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "CSV",
+						"referenceName": "CSV_Source",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "CSV",
+						"referenceName": "CSV_Source",
 						"type": "DatasetReference"
 					}
 				]
